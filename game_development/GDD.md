@@ -1,4 +1,5 @@
 Original template by [https://sag-dev.com](Sergio Abreu García)
+
 Also on [https://docs.google.com/document/d/162iPsw1Jetqc_o6SSKt-BjkuPTPi2AzM1pjK5Wi1y8Y/edit?usp=sharing](Google Docs)
 
 **Feel free to use or modify this document as you please, credit is appreciated**
@@ -23,7 +24,7 @@ can't be saved, so it must be completed in one run.*
 
 ## Target platform & minimum/recommended hardware
 What are the target platforms, and what is the minimum and recommended hardware
-the user needs to run the game, e.g.:
+the user needs to run the game? e.g.:
 
 *Platform: PC
 Minimum specs: i3, 1050
@@ -89,7 +90,7 @@ Description of every element of each menu:
 ![Default key mapping image](link-to-image)
 
 What are the predefined control scheme(s) and to which point can the user modify
-them (keybindings, sensivity, dead zones...), e.g.:
+them (keybindings, sensivity, dead zones...)? e.g.:
 
 *Default key mappings:
 - Spacebar: jump.
@@ -98,11 +99,11 @@ Hardcore key mappings:
 - Scroll wheel: jump.*
 
 ## Story
-If your game's story is heavily loaded, it's recommended to keep this in
+If your game's story is heavy, it's recommended to keep this in
 separate documents and link them from here.
 
 ### Synopsis
-A brief summary of the general plot of the game.
+A brief summary of the general plot.
 
 ### In-depth plot
 The whole script of the game.
@@ -122,9 +123,12 @@ A list of the characters and its traits, stories, personalities, etc. e.g.:
 
 - *Player character: a jumping guy.*
 
-## World building
+## Game world
 A description of the general feel and theme of the world the game's set in.
 For larger projects, it's recommended to separate this into different documents.
+
+### World building
+How will the world of the game be introduced & explained to the player?
 
 ### Characters, Monsters, Weapons, Races, Worlds...
 Here you can add descriptions of whatever is relevant in your game world.
@@ -162,7 +166,7 @@ that will keep looping forever so the player can chill and focus on jumping*
 - *Track 1: Jump, my dear (50 minutes long)*
 
 ### Sound effects
-How the game will sound. What sounds will be needed and how will they behave.
+How the game will sound. What sounds will be needed and how will they behave?
 e.g.:
 
 *The game will have a sound effect for the jump, and some levels will be rainy,
@@ -180,26 +184,26 @@ cinematics...
 
 ## Business
 ### Monetization model
-How this game will generate profit (selling copies, microtransactions...). Also,
-what things will affect that profit, such as licenses and store fees.
+How this game will generate profit (selling copies, microtransactions...)? Also,
+what things, such as licenses and store fees, will affect that profit?
 
 *The game will cost 10$, no microtransactions at all. Pay once, play forever*
 
 ### Marketing strategy
 What strategy will be followed to get to the people, and how it will reach its
-target audience.
+target audience?
 
 *We will use Google Ads to show people how fun jumping can be. Also, we'll send
 press releases to major videogames publications.*
 
 ### Social media management
 Through channels will the team communicate with its community, and how will that
-communication be (close, business like...). e.g.:
+communication be (close & friendly, business-like...)? e.g.:
 
 *The game Twitter account will be the main channel of communication with our users.*
 
 ### Publishing platform(s)
-Where will the game be published, and what are its key advantages and disadvantages.
+Where will the game be published, and what are its key advantages and disadvantages?
 e.g.:
 
 *Steam: easy to publish on, but the oversaturated market makes it harder to reach
