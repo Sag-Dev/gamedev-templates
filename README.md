@@ -9,7 +9,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 ## Authors
 
-* **[Sergio Abreu García](https://sag-dev.com)** - *Initial work*
+* **[Sergio Abreu García](https://sag-dev.com)** - *Owner & initial work*
 
 See also the list of [contributors](https://github.com/Sag-Dev/templates/contributors) who participated in this project.
 
