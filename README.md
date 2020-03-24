@@ -1,11 +1,13 @@
 # Templates
-A template collection for software development projects. I'm always looking
-up for the same templates in the same random sites, so I'm now collecting them
+A template collection for game development projects. I'm always looking
+up for the same templates in the same scattered sites, so I'm now collecting them
 to avoid losing my mental sanity.
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+This repository is open to any meaningful contribution, but please read
+[CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and
+the process for submitting pull requests to me.
 
 ## Authors
 
