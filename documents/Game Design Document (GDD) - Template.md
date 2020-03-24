@@ -1,6 +1,6 @@
-Original template by [https://sag-dev.com](Sergio Abreu García)
+Original template by [Sergio Abreu García](https://sag-dev.com)
 
-Also on [https://docs.google.com/document/d/162iPsw1Jetqc_o6SSKt-BjkuPTPi2AzM1pjK5Wi1y8Y/edit?usp=sharing](Google Docs)
+Also [on Google Docs](https://docs.google.com/document/d/162iPsw1Jetqc_o6SSKt-BjkuPTPi2AzM1pjK5Wi1y8Y/edit?usp=sharing)
 
 **Feel free to use or modify this document as you please, credit is appreciated**
 
