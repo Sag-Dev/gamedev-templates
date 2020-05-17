@@ -71,23 +71,6 @@ or too challenging.*
 ### Enemies, platforms, traps, puzzles, game modes, levels...
 Whatever extra sections your game needs.
 
-### User Interface
-#### In-game
-![In-game interface explanatory image](link-to-image)
-
-Description of every element of the in-game interface:
-- *Jump bar: shows how much jump energy the player currently has.*
-
-#### Menus
-![Main menu explanatory image](link-to-image)
-
-Description of every element of each menu:
-- *Play button: starts a new game.*
-
-![Settings menu explanatory image](link-to-image)
-
-...
-
 ### Control scheme
 ![Default key mapping image](link-to-image)
 
@@ -99,6 +82,23 @@ them (keybindings, sensivity, dead zones...)? e.g.:
 
 Hardcore key mappings:
 - Scroll wheel: jump.*
+
+## User Interface
+### In-game
+![In-game interface explanatory image](link-to-image)
+
+Description of every element of the in-game interface:
+- *Jump bar: shows how much jump energy the player currently has.*
+
+### Menus
+![Main menu explanatory image](link-to-image)
+
+Description of every element of each menu:
+- *Play button: starts a new game.*
+
+![Settings menu explanatory image](link-to-image)
+
+...
 
 ## Story
 If your game's story is heavy, it's recommended to keep this in
