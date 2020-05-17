@@ -100,6 +100,16 @@ Description of every element of each menu:
 
 ...
 
+## Game world
+A description of the general feel and theme of the world the game's set in.
+For larger projects, it's recommended to separate this into different documents.
+
+### Characters, Monsters, Weapons, Races, Worlds...
+Here you can add descriptions of whatever is relevant in your game world.
+
+### World building
+How will the world of the game be introduced & explained to the player?
+
 ## Story
 If your game's story is heavy, it's recommended to keep this in
 separate documents and link them from here.
@@ -124,16 +134,6 @@ All the secondary quests with little or no relevance to the main plot.
 A list of the characters and its traits, stories, personalities, etc. e.g.:
 
 - *Player character: a jumping guy.*
-
-## Game world
-A description of the general feel and theme of the world the game's set in.
-For larger projects, it's recommended to separate this into different documents.
-
-### World building
-How will the world of the game be introduced & explained to the player?
-
-### Characters, Monsters, Weapons, Races, Worlds...
-Here you can add descriptions of whatever is relevant in your game world.
 
 ## Visuals
 For larger projects, it's recommended to keep this section light and link
