@@ -238,6 +238,8 @@ of the experience? e.g.:
 *Squat DLC: a deep jump to reach higher than ever before*
 
 ## References
-Anything that was or can be used as a reference when developing the game.
+Anything that was or can be used as a reference during the development process.
 Depending on the scope of the game, it could be divided into sections such as
-visual style, programming, audio effects, photography direction, ambient music...
+visual style, programming, audio effects, photography direction, ambient music…
+
+*- A guy I saw jumping on the street: his jump was stylish.*
