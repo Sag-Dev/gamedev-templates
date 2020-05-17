@@ -236,3 +236,8 @@ to keep the team working on it? What are those and how do they influence the res
 of the experience? e.g.:
 
 *Squat DLC: a deep jump to reach higher than ever before*
+
+## References
+Anything that was or can be used as a reference when developing the game.
+Depending on the scope of the game, it could be divided into sections such as
+visual style, programming, audio effects, photography direction, ambient music...
