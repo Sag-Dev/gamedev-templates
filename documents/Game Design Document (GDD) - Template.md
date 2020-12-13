@@ -1,6 +1,6 @@
-Original template by [https://sergioabreu.me](Sergio Abreu García)
+Original template by [Sergio Abreu García](https://sergioabreu.me)
 
-Also on [https://docs.google.com/document/d/162iPsw1Jetqc_o6SSKt-BjkuPTPi2AzM1pjK5Wi1y8Y/edit?usp=sharing](Google Docs)
+Also [on Google Docs](https://docs.google.com/document/d/162iPsw1Jetqc_o6SSKt-BjkuPTPi2AzM1pjK5Wi1y8Y/edit?usp=sharing)
 
 **Feel free to use or modify this document as you please, credit is appreciated**
 
@@ -8,8 +8,10 @@ Also on [https://docs.google.com/document/d/162iPsw1Jetqc_o6SSKt-BjkuPTPi2AzM1pj
 
 **Game Studio or Author(s) name(s)**
 
-# Project title
-A short line pitching the game. e.g:
+# Game title
+![Portrait or preview image](link-to-image)
+
+A brief pitch line. e.g:
 
 *A jumping game about jumping.*
 
@@ -21,14 +23,6 @@ are a master of it.
 
 There are 500 levels, each more difficult than the previous one, and progress
 can't be saved, so it must be completed in one run.*
-
-## Target platform & minimum/recommended hardware
-What are the target platforms, and what is the minimum and recommended hardware
-the user needs to run the game? e.g.:
-
-*Platform: PC
-Minimum specs: i3, 1050
-Recommended specs: i5, 1060 6gb*
 
 ## Scope
 ### What's the main objective of this project?
@@ -42,6 +36,14 @@ Recommended specs: i5, 1060 6gb*
 ### Who is the target audience?
   [Teenagers, adults, hardcore gamers...]
 *Everyone who knows what jumping is; casual players mainly.*
+
+### Target platform & minimum/recommended hardware
+What are the target platforms, and what is the minimum and recommended hardware
+the user needs to run the game? e.g.:
+
+*Platform: PC
+Minimum specs: i3, 1050
+Recommended specs: i5, 1060 6gb*
 
 ## Gameplay
 Brief description of the key mechanics of the game and how they interact with
@@ -67,24 +69,7 @@ or too challenging.*
 ![Jump learning curve](link-to-image)
 
 ### Enemies, platforms, traps, puzzles, game modes, levels...
-Whatever extra elements your game posees.
-
-### User Interface
-#### In-game
-![In-game interface explanatory image](link-to-image)
-
-Description of every element of the in-game interface:
-- *Jump bar: shows how much jump energy the player currently has.*
-
-#### Menus
-![Main menu explanatory image](link-to-image)
-
-Description of every element of each menu:
-- *Play button: starts a new game.*
-
-![Settings menu explanatory image](link-to-image)
-
-...
+Whatever extra sections your game needs.
 
 ### Control scheme
 ![Default key mapping image](link-to-image)
@@ -97,6 +82,33 @@ them (keybindings, sensivity, dead zones...)? e.g.:
 
 Hardcore key mappings:
 - Scroll wheel: jump.*
+
+## User Interface
+### In-game
+![In-game interface explanatory image](link-to-image)
+
+Description of every element of the in-game interface:
+- *Jump bar: shows how much jump energy the player currently has.*
+
+### Menus
+![Main menu explanatory image](link-to-image)
+
+Description of every element of each menu:
+- *Play button: starts a new game.*
+
+![Settings menu explanatory image](link-to-image)
+
+...
+
+## Game world
+A description of the general feel and theme of the world the game's set in.
+For larger projects, it's recommended to separate this into different documents.
+
+### Characters, Monsters, Weapons, Races, Worlds...
+Here you can add descriptions of whatever is relevant in your game world.
+
+### World building
+How will the world of the game be introduced & explained to the player?
 
 ## Story
 If your game's story is heavy, it's recommended to keep this in
@@ -122,16 +134,6 @@ All the secondary quests with little or no relevance to the main plot.
 A list of the characters and its traits, stories, personalities, etc. e.g.:
 
 - *Player character: a jumping guy.*
-
-## Game world
-A description of the general feel and theme of the world the game's set in.
-For larger projects, it's recommended to separate this into different documents.
-
-### World building
-How will the world of the game be introduced & explained to the player?
-
-### Characters, Monsters, Weapons, Races, Worlds...
-Here you can add descriptions of whatever is relevant in your game world.
 
 ## Visuals
 For larger projects, it's recommended to keep this section light and link
@@ -164,6 +166,7 @@ length of the tracks, when will each track play, how will the transitions be...
 that will keep looping forever so the player can chill and focus on jumping*
 
 - *Track 1: Jump, my dear (50 minutes long)*
+- ...
 
 ### Sound effects
 How the game will sound. What sounds will be needed and how will they behave?
@@ -175,7 +178,7 @@ so there needs to be a rain loopable ambient sound that never stops.*
 - *Jumping sound: it will play when the player jumps, varying its pitch depending
 on the strength of the jump*
 
-### Extra assets
+## Extra assets
 A guide of all the things that might be needed as extra assets, such as
 ad banners, concept arts, images for the digital store publication,
 cinematics...
@@ -184,7 +187,7 @@ cinematics...
 
 ## Business
 ### Monetization model
-How this game will generate profit (selling copies, microtransactions...)? Also,
+How will this game generate profit (selling copies, microtransactions...)? Also,
 what things, such as licenses and store fees, will affect that profit?
 
 *The game will cost 10$, no microtransactions at all. Pay once, play forever*
@@ -194,7 +197,7 @@ What strategy will be followed to get to the people, and how it will reach its
 target audience?
 
 *We will use Google Ads to show people how fun jumping can be. Also, we'll send
-press releases to major videogames publications.*
+press releases to major video games publications.*
 
 ### Social media management
 Through channels will the team communicate with its community, and how will that
@@ -233,3 +236,10 @@ to keep the team working on it? What are those and how do they influence the res
 of the experience? e.g.:
 
 *Squat DLC: a deep jump to reach higher than ever before*
+
+## References
+Anything that was or can be used as a reference during the development process.
+Depending on the scope of the game, it could be divided into sections such as
+visual style, programming, audio effects, photography direction, ambient music…
+
+*- A guy I saw jumping on the street: his jump was stylish.*
