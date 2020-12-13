@@ -55,7 +55,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 ## Authors
 
 * **[Billie Thompson](https://github.com/PurpleBooth)** - *Initial work*
-* **[Sergio Abreu García](https://sag-dev.com)** - *Structure modifications*
+* **[Sergio Abreu García](https://sergioabreu.me)** - *Structure modifications*
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 

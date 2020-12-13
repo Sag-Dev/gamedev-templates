@@ -11,9 +11,9 @@ the process for submitting pull requests to me.
 
 ## Authors
 
-* **[Sergio Abreu García](https://sag-dev.com)** - *Owner & initial work*
+* **[Sergio Abreu García](https://sergioabreu.me)** - *Owner & initial work*
 
-See also the list of [contributors](https://github.com/Sag-Dev/templates/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/sergioabreu-g/templates/contributors) who participated in this project.
 
 ## License
 
